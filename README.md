@@ -2,7 +2,7 @@
 
 ## Description 📝🔍✨
 
-This project implements a **DNA Matching algorithm** that finds the longest common DNA subsequence between two given sequences. The program reads two DNA sequences from files, processes them, and outputs the longest matching sequence.
+This project implements a **DNA Matching algorithm** that finds the longest common DNA subsequence between two given sequences. The program reads two DNA sequences from files, processes them, and outputs the longest matching sequence in another file.
 
 ## Features 🚀📄🧪
 
