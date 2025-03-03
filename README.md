@@ -40,7 +40,7 @@ This project implements a **DNA Matching algorithm** that finds the longest comm
 Run the following command:
 
 ```sh
-gcc -o dna src/dna.c
+gcc -Wall -Wextra -std=c99 -o dna src/dna.c
 ```
 
 ### Execution
