@@ -48,7 +48,7 @@ gcc -Wall -Wextra -std=c99 -o dna src/dna.c
 Run the program with two input DNA files:
 
 ```sh
-./dna input1.dna input2.dna >output.dna
+./dna test/input1.dna test/input2.dna >output.dna
 ```
 
 The output will be **the longest common DNA subsequence**.
